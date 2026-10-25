@@ -1,0 +1,22 @@
+generated: '2026-10-25'
+method: none
+source:
+- https://zapier.com/apps/jackett-io/integrations
+- https://zapier.com/apps/jackett/integrations
+- https://zapier.com/apps/coteach/integrations
+- https://n8n.io/integrations/jackett-io/
+- https://n8n.io/integrations/jackett/
+- https://composio.dev/toolkits/jackett-io
+- https://monid.ai/tools/jackett-io
+checked:
+- https://composio.dev/toolkits/jackett-io
+- https://monid.ai/tools/jackett-io
+- https://n8n.io/integrations/jackett-io/
+- https://n8n.io/integrations/jackett/
+- https://zapier.com/apps/coteach/integrations
+- https://zapier.com/apps/jackett-io/integrations
+- https://zapier.com/apps/jackett/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
